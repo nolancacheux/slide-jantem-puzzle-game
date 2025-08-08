@@ -1,4 +1,4 @@
-# PuzzleSlide
+# Slide Jantem - Puzzle Game
 
 A web-based puzzle game featuring sliding block mechanics, level creation tools, and pixel art aesthetics with player customization and leaderboard functionality.
 
@@ -34,11 +34,11 @@ A web-based puzzle game featuring sliding block mechanics, level creation tools,
 
 | Main Menu | Gameplay | Level Editor |
 |-----------|----------|--------------|
-| ![Main Menu](im1.png) | ![Gameplay](im2.png) | ![Level Editor](im7.png) |
+| ![Main Menu](im1.png) | ![Gameplay](im2.png) | ![Manual Editor](im7.png) |
 
 | Customization | Leaderboard | Level Selection |
 |---------------|-------------|-----------------|
-| ![Customization](im5.png) | ![Leaderboard](im6.png) | ![Level Selection](im4.png) |
+| ![Customization](im4.png) | ![Leaderboard](im5.png) | ![Auto Editor](im6.png) |
 
 ## Technical Stack
 
